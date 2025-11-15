@@ -8,7 +8,8 @@ em uma das seguintes categorias:
 *Criança (0-12 anos),
 *Adolescente (13-17 anos),
 *Adulto (18-59 anos) ou
-*Idoso (60 anos ou mais)."""
+*Idoso (60 anos ou mais).
+"""
 
 idade = input("Me fale a sua idade: ")
 
