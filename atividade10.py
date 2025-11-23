@@ -24,4 +24,7 @@ if (IMC < 18.5):
     print("abaixo do peso")
 elif ((IMC > 18.5) & (IMC < 25)):
     print("peso normal")
-elif ((IMC > ))
+elif ((IMC > 25) & (IMC < 30)):
+    print("Sobrepeso")
+else:
+    print("Obeso")
